@@ -1,2 +1,2 @@
 # Analysing-Hospitalized-Patient-Mortality-Using-MySQL
-Healthcare Analytics
+Healthcare Analytics Project
